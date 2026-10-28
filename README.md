@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1020,100:3b4cca&height=180&section=header&text=Dimas%20Pasha%20Akrilian&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Hello%2C%20World.%20I%27m&descAlignY=18&descSize=14" alt="header"/>
 
-<a href="https://github.com/PashaAkrilian"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7C8CFF&center=true&vCenter=true&width=640&lines=Machine+Learning+%C2%B7+Forecasting;Backend+AI+%C2%B7+Robotics+Software;Statistics+%26+Data+Science+%40+UNNES" alt="typing"/></a>
+<a href="https://github.com/PashaAkrilian"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7C8CFF&center=true&vCenter=true&width=640&lines=Computer+Vision+%C2%B7+Robotics+Software;Image+Forensics+%C2%B7+Medical+Imaging;Statistics+%40+UNNES" alt="typing"/></a>
 
-**Semarang, Indonesia** · Kaggle Bronze · ex-Backend AI Intern @ [FlyRank AI](https://flyrank.ai)
+**Semarang, Indonesia** · Kaggle Silver & Bronze · ex-Backend AI Intern @ [FlyRank AI](https://flyrank.ai)
 
 <a href="https://www.linkedin.com/in/dimas-pasha-akrilian"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://pashaakrilian.github.io"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
@@ -22,9 +22,9 @@
 
 **Statistics & Data Science @ Universitas Negeri Semarang**
 
-Machine learning, forecasting, backend AI and robotics software. I like turning messy data and noisy signals into systems that actually ship.
+Computer vision and robotics software, with Kaggle medals in image forensics and medical imaging. I like turning messy data and noisy signals into systems that actually ship.
 
-**Focus:** `Python` · `Jupyter` · `FastAPI` · `React / TypeScript`
+**Focus:** `Python` · `PyTorch` · `FastAPI` · `Jupyter`
 
 <sub>Thoughtful collaboration, ambitious products, and useful open source.</sub>
 
@@ -33,7 +33,7 @@ Machine learning, forecasting, backend AI and robotics software. I like turning 
 
 `LIVE SIGNAL`
 
-Kaggle Bronze, **136th / 1,564**<br/>
+Kaggle Silver & Bronze medalist (Bronze: **136th / 1,564**)<br/>
 1st Runner-Up, UNITY UNY 2026<br/>
 VTOL division, SUVIFOR Robotika UNNES<br/>
 Backend AI Intern @ FlyRank AI (completed)
@@ -48,7 +48,7 @@ Backend AI Intern @ FlyRank AI (completed)
 
 | 01 · Now | 02 · Building | 03 · Next |
 |---|---|---|
-| Drought early-warning & climate forecasting | Backend AI services, billing & metering | Robotics software, computer vision |
+| Computer vision, image forensics & medical imaging | Robotics software, backend AI services | Forecasting, drought & climate modelling |
 
 <p align="center">✦ ─────────────────────── ✦</p>
 
@@ -56,6 +56,7 @@ Backend AI Intern @ FlyRank AI (completed)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas"/>
@@ -76,14 +77,14 @@ Backend AI Intern @ FlyRank AI (completed)
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**Scientific Image Forgery Detection**](https://github.com/PashaAkrilian/Recod.ai-LUC---Scientific-Image-Forgery-Detection) | Kaggle Bronze: copy-move forgery segmentation in biomedical images | DINOv2 · Computer Vision |
+| [**ALL Leukemia Classification**](https://github.com/PashaAkrilian/Acute-Lymphoblastic-Leukemia-ALL-Image-Classification) | Blood-smear classification comparing AlexNet, ResNet18, ViT, Swin | Deep Learning · CV |
 | [**SIAGA**](https://github.com/PashaAkrilian/SIAGA-Sistem-Peringatan-Dini-Kekeringan) · [live demo](https://frontend-nu-silk-76.vercel.app) | Drought early-warning system for Indonesia under a Godzilla El Niño 2026 scenario | FastAPI · React · XGBoost · Docker |
 | [**Godzilla El Niño 2026**](https://github.com/PashaAkrilian/Godzila-El-Nino) | Research I led: "climate kinematics" features + Quantile XGBoost + SHAP to forecast national drought severity | Python · XGBoost · Bayesian Opt. |
-| [**Scientific Image Forgery Detection**](https://github.com/PashaAkrilian/Recod.ai-LUC---Scientific-Image-Forgery-Detection) | Kaggle Bronze: copy-move forgery segmentation in biomedical images | DINOv2 · Computer Vision |
 | [**LLM Usage Metering & Billing**](https://github.com/PashaAkrilian/LLM-Usage-Metering-Billing-Service) | Exactly-once metering, quota enforcement, AI-token pricing, Stripe webhooks (FlyRank capstone) | FastAPI · PostgreSQL · Stripe |
 | [**Embeddable Widget Platform**](https://github.com/PashaAkrilian/Embeddable-Widget-Lead-Capture-Platform) | Multi-tenant `<script>` widget + hardened lead-capture API (FlyRank capstone) | Express · PostgreSQL · JWT |
 | [**EcoSentra**](https://github.com/PashaAkrilian/EcoSentra-Platform-Analisis-Lahan-dan-Ekosistem-Indonesia) · [live demo](https://ecosentra-sooty.vercel.app) | Land-cover & ecosystem analysis platform (Gemastik 2025) | Next.js · FastAPI · Earth Engine |
 | [**Nemotron Reasoning**](https://github.com/PashaAkrilian/NVIDIA-Nemotron-Model-Reasoning) | LoRA + SFT fine-tuning of a 30B LLM for multi-step reasoning | Hugging Face · LoRA |
-| [**ALL Leukemia Classification**](https://github.com/PashaAkrilian/Acute-Lymphoblastic-Leukemia-ALL-Image-Classification) | Blood-smear classification comparing AlexNet, ResNet18, ViT, Swin | Deep Learning · CV |
 | [**Insurance Claim Prediction**](https://github.com/PashaAkrilian/Data-Science-Competition---MCF-ITB-2026) | Claim frequency/severity forecasting (MCF ITB 2026) | LightGBM · Optuna |
 
 <p align="center">✦ ─────────────────────── ✦</p>
@@ -103,7 +104,7 @@ Backend AI Intern @ FlyRank AI (completed)
 
 ## Make something worth noticing
 
-I like working with people who care about craft, context, and shipping the useful version. Open to data science, machine learning and robotics software roles, internships and freelance projects.
+I like working with people who care about craft, context, and shipping the useful version. Open to computer vision, robotics software and machine learning roles, internships and freelance projects.
 
 <div align="center">
 
