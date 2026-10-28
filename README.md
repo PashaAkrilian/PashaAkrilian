@@ -99,10 +99,6 @@ Backend AI Intern @ FlyRank AI (completed)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PashaAkrilian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f1020" alt="Top languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PashaAkrilian&theme=tokyo-night&hide_border=true&bg_color=0f1020" alt="Contribution graph"/>
-</p>
-
 <p align="center">✦ ─────────────────────── ✦</p>
 
 ## Make something worth noticing
