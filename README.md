@@ -33,10 +33,10 @@ Machine learning, forecasting, backend AI and robotics software. I like turning 
 
 `LIVE SIGNAL`
 
-🥉 Kaggle Bronze, **136th / 1,564**<br/>
-🥈 1st Runner-Up, UNITY UNY 2026<br/>
-🚁 VTOL division, SUVIFOR Robotika UNNES<br/>
-💼 Backend AI Intern @ FlyRank AI (completed)
+Kaggle Bronze, **136th / 1,564**<br/>
+1st Runner-Up, UNITY UNY 2026<br/>
+VTOL division, SUVIFOR Robotika UNNES<br/>
+Backend AI Intern @ FlyRank AI (completed)
 
 </td>
 </tr>
@@ -76,15 +76,15 @@ Machine learning, forecasting, backend AI and robotics software. I like turning 
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🌵 [**SIAGA**](https://github.com/PashaAkrilian/SIAGA-Sistem-Peringatan-Dini-Kekeringan) · [live demo](https://frontend-nu-silk-76.vercel.app) | Drought early-warning system for Indonesia under a Godzilla El Niño 2026 scenario | FastAPI · React · XGBoost · Docker |
-| 🌊 [**Godzilla El Niño 2026**](https://github.com/PashaAkrilian/Godzila-El-Nino) | Research I led: "climate kinematics" features + Quantile XGBoost + SHAP to forecast national drought severity | Python · XGBoost · Bayesian Opt. |
-| 🔬 [**Scientific Image Forgery Detection**](https://github.com/PashaAkrilian/Recod.ai-LUC---Scientific-Image-Forgery-Detection) | Kaggle Bronze: copy-move forgery segmentation in biomedical images | DINOv2 · Computer Vision |
-| 💳 [**LLM Usage Metering & Billing**](https://github.com/PashaAkrilian/LLM-Usage-Metering-Billing-Service) | Exactly-once metering, quota enforcement, AI-token pricing, Stripe webhooks (FlyRank capstone) | FastAPI · PostgreSQL · Stripe |
-| 🧩 [**Embeddable Widget Platform**](https://github.com/PashaAkrilian/Embeddable-Widget-Lead-Capture-Platform) | Multi-tenant `<script>` widget + hardened lead-capture API (FlyRank capstone) | Express · PostgreSQL · JWT |
-| 🌳 [**EcoSentra**](https://github.com/PashaAkrilian/EcoSentra-Platform-Analisis-Lahan-dan-Ekosistem-Indonesia) · [live demo](https://ecosentra-sooty.vercel.app) | Land-cover & ecosystem analysis platform (Gemastik 2025) | Next.js · FastAPI · Earth Engine |
-| 🧠 [**Nemotron Reasoning**](https://github.com/PashaAkrilian/NVIDIA-Nemotron-Model-Reasoning) | LoRA + SFT fine-tuning of a 30B LLM for multi-step reasoning | Hugging Face · LoRA |
-| 🩸 [**ALL Leukemia Classification**](https://github.com/PashaAkrilian/Acute-Lymphoblastic-Leukemia-ALL-Image-Classification) | Blood-smear classification comparing AlexNet, ResNet18, ViT, Swin | Deep Learning · CV |
-| 🏥 [**Insurance Claim Prediction**](https://github.com/PashaAkrilian/Data-Science-Competition---MCF-ITB-2026) | Claim frequency/severity forecasting (MCF ITB 2026) | LightGBM · Optuna |
+| [**SIAGA**](https://github.com/PashaAkrilian/SIAGA-Sistem-Peringatan-Dini-Kekeringan) · [live demo](https://frontend-nu-silk-76.vercel.app) | Drought early-warning system for Indonesia under a Godzilla El Niño 2026 scenario | FastAPI · React · XGBoost · Docker |
+| [**Godzilla El Niño 2026**](https://github.com/PashaAkrilian/Godzila-El-Nino) | Research I led: "climate kinematics" features + Quantile XGBoost + SHAP to forecast national drought severity | Python · XGBoost · Bayesian Opt. |
+| [**Scientific Image Forgery Detection**](https://github.com/PashaAkrilian/Recod.ai-LUC---Scientific-Image-Forgery-Detection) | Kaggle Bronze: copy-move forgery segmentation in biomedical images | DINOv2 · Computer Vision |
+| [**LLM Usage Metering & Billing**](https://github.com/PashaAkrilian/LLM-Usage-Metering-Billing-Service) | Exactly-once metering, quota enforcement, AI-token pricing, Stripe webhooks (FlyRank capstone) | FastAPI · PostgreSQL · Stripe |
+| [**Embeddable Widget Platform**](https://github.com/PashaAkrilian/Embeddable-Widget-Lead-Capture-Platform) | Multi-tenant `<script>` widget + hardened lead-capture API (FlyRank capstone) | Express · PostgreSQL · JWT |
+| [**EcoSentra**](https://github.com/PashaAkrilian/EcoSentra-Platform-Analisis-Lahan-dan-Ekosistem-Indonesia) · [live demo](https://ecosentra-sooty.vercel.app) | Land-cover & ecosystem analysis platform (Gemastik 2025) | Next.js · FastAPI · Earth Engine |
+| [**Nemotron Reasoning**](https://github.com/PashaAkrilian/NVIDIA-Nemotron-Model-Reasoning) | LoRA + SFT fine-tuning of a 30B LLM for multi-step reasoning | Hugging Face · LoRA |
+| [**ALL Leukemia Classification**](https://github.com/PashaAkrilian/Acute-Lymphoblastic-Leukemia-ALL-Image-Classification) | Blood-smear classification comparing AlexNet, ResNet18, ViT, Swin | Deep Learning · CV |
+| [**Insurance Claim Prediction**](https://github.com/PashaAkrilian/Data-Science-Competition---MCF-ITB-2026) | Claim frequency/severity forecasting (MCF ITB 2026) | LightGBM · Optuna |
 
 <p align="center">✦ ─────────────────────── ✦</p>
 
